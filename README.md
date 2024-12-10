@@ -24,8 +24,8 @@ It handles special cases like:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/comic-issue-cleaner.git
-   cd comic-issue-cleaner
+   git clone https://github.com/thertemis/Comics-list-cleaner.git
+   cd Comics-list-cleaner
    ```
 
 2. Ensure you have Python 3.6 or higher installed.
@@ -48,7 +48,7 @@ It handles special cases like:
 
 2. Run the script:
    ```bash
-   python script_name.py
+   python cleancomicslist.py
    ```
 
 3. Check the output files:
